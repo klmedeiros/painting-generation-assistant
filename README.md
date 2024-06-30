@@ -1,5 +1,6 @@
 # painting-generation-assistant
 Painting Generation Assistant for Encode Club AI bootcamp, week 3 weekend homework
+Done as a collaboration with Group 3 & @giantflyingegg from Group 1
 
 Generated using @giantflyingegg's version, found here: https://github.com/giantflyingegg/ai-bootcamp-homework-2-Group1/tree/main
 
